@@ -31,7 +31,7 @@
   "devDependencies": {
     "@types/mocha": "^2.2.44",
     "@types/node": "^8.0.53",
-    "cson": "^4.1.0",
+    "cson": "^7.20.0",
     "tslint": "^5.8.0",
     "tslint-microsoft-contrib": "^5.0.1",
     "typescript": "^2.6.1",
