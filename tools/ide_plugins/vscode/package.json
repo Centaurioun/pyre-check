@@ -29,7 +29,7 @@
     "vscode-languageclient": "^3.5.0"
   },
   "devDependencies": {
-    "@types/mocha": "^2.2.44",
+    "@types/mocha": "^10.0.1",
     "@types/node": "^8.0.53",
     "cson": "^4.1.0",
     "tslint": "^5.8.0",
