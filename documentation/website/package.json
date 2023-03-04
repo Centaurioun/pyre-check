@@ -24,7 +24,7 @@
     "react-dom": "^16.10.2",
     "react-toastify": "^9.0.8",
     "react-trend": "^1.2.5",
-    "react-youtube": "^7.14.0",
+    "react-youtube": "^10.1.0",
     "socket.io-client": "^4.3.2",
     "socket.io-parser": "4.2.1"
   },
